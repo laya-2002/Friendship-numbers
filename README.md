@@ -1,2 +1,5 @@
 # Friendship-numbers
-Python program to find Ramanujan's friendship number pairs.
+
+Ramanujan's friendship numbers story :
+
+Mathematician Ramanujan didn’t have any close friends – someone asked him the reason. He replied that although he wanted to have close friends – nobody was up to his expectation. When pressed how he expected his friends to be – he replied – like numbers 220 and 284. The person got confused and asked what is the connection between friendship and these numbers! Ramanujan asked him to find the divisors of each number! With much difficulty – the person derived and listed them. 220 – 1, 2, 4, 5, 10, 11, 20, 22, 44, 55, 110, 220 284 – 1, 2, 4, 71, 142, 284 Ramanujan then asked the person to exclude the numbers 220 and 284 and asked the sum of the remaining divisors. The person was astonished to find: 220 – 1+2+4+5+10+11+20+22+44+55+110 = 284 284 – 1+2+4+71+142 = 220 Ramanujan explained that an ideal friendship should be like these numbers – to complement each other – even when one is absent – the other should represent the friend!
