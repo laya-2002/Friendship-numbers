@@ -18,6 +18,6 @@ def friendship_pairs(p,q):
         r1=sum_factors(a)
         if((sum_factors(r1)==a)and(a!=r1)):
             count+=1
-            print("(",a,",",r1,")")
+            print("(",a,",",r1,")",sep="")
     print("The number of friendship number pairs between",p,"and",q,"are :",count)
 friendship_pairs(x,y)
